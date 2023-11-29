@@ -1,7 +1,7 @@
 # Image Classification: Facial Emotion Recognition (FER)
 
 ## Overview
-This project explores various machine learning and deep learning approaches for facial emotion classification, using a subset of the FER2013 image dataset. The notebook demonstrates a structured approach to image data feature extraction and classification, beginning with conventional machine learning methods and progressing to deep learning techniques using Keras. This project was part of a [Kaggle competition](https://www.kaggle.com/competitions/emotion-recognition-from-human-faces/leaderboard) where this submission achieved a third place out of 32 participants.
+This project explores various machine learning and deep learning approaches for facial emotion classification, using a subset of the FER2013 image dataset. The notebook demonstrates a structured approach to image data feature extraction and classification, beginning with conventional machine learning methods and progressing to deep learning techniques using Keras. This project was part of a [Kaggle competition](https://www.kaggle.com/competitions/emotion-recognition-from-human-faces/leaderboard) where this submission achieved a third place out of 32 participants. Note that the data can be found there.
 
 ## Structure
 1. **Library and Data Import**
